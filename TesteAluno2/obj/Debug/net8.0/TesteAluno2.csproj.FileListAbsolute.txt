@@ -1,0 +1,15 @@
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\TesteAluno2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\TesteAluno2.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\TesteAluno2.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\TesteAluno2.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\TesteAluno2.sourcelink.json
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\bin\Debug\net8.0\TesteAluno2.exe
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\bin\Debug\net8.0\TesteAluno2.deps.json
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\bin\Debug\net8.0\TesteAluno2.runtimeconfig.json
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\bin\Debug\net8.0\TesteAluno2.dll
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\bin\Debug\net8.0\TesteAluno2.pdb
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\TesteAluno2.dll
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\refint\TesteAluno2.dll
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\TesteAluno2.pdb
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\TesteAluno2.genruntimeconfig.cache
+C:\Users\SENAI3EM\Desktop\AtividadeAlu\TesteAluno2\TesteAluno2\obj\Debug\net8.0\ref\TesteAluno2.dll
